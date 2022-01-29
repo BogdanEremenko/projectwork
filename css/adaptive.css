@@ -1,0 +1,152 @@
+@media screen and (max-width:1200px) {
+    p{
+        font-size: 20px;
+    }
+    .hotel{
+        max-width: 500px;
+    }
+    .img-logo{
+        max-width: 200px;
+    }
+    .navigation{
+        font-size: 30px;
+    }
+    .img-header{
+        max-width: 700px;
+        max-height: 600px;
+    }
+    .title{
+        font-size: 30px;
+    }
+    .img-main{
+        max-width: 500px;
+        max-height: 500px;
+    }
+    .contact{
+        font-size: 40px;
+    }
+    .mail{
+        font-size: 30px;
+    }
+    .inf{
+        font-size: 25px;
+    }
+    .right img{
+        max-width: 130px;
+        max-height: 130px;
+    }
+}
+@media screen and (max-width:992px) {
+    p{
+        font-size: 25px;
+    }
+    .hotel{
+        max-width: 600px;
+    }
+    .img-logo{
+        max-width: 300px;
+    }
+    .navigation{
+        font-size: 35px;
+    }
+    .img-header{
+        max-width: 800px;
+        max-height: 700px;
+    }
+    .title{
+        font-size: 35px;
+    }
+    .img-main{
+        max-width: 600px;
+        max-height: 600px;
+    }
+    .contact{
+        font-size: 45px;
+    }
+    .mail{
+        font-size: 35px;
+    }
+    .inf{
+        font-size: 30px;
+    }
+    .right img{
+        max-width: 230px;
+        max-height: 230px;
+    }
+}
+@media screen and (max-width:768px) {
+    p{
+        font-size: 30px;
+    }
+    .hotel{
+        max-width: 700px;
+    }
+    .img-logo{
+        max-width: 400px;
+    }
+    .navigation{
+        font-size: 40px;
+    }
+    .img-header{
+        max-width: 900px;
+        max-height: 800px;
+    }
+    .title{
+        font-size: 40px;
+    }
+    .img-main{
+        max-width: 700px;
+        max-height: 700px;
+    }
+    .contact{
+        font-size: 50px;
+    }
+    .mail{
+        font-size: 40px;
+    }
+    .inf{
+        font-size: 35px;
+    }
+    .right img{
+        max-width: 330px;
+        max-height: 330px;
+    }
+}
+@media screen and (max-width:576px) {
+    p{
+        font-size: 35px;
+    }
+    .hotel{
+        max-width: 800px;
+    }
+    .img-logo{
+        max-width: 500px;
+    }
+    .navigation{
+        font-size: 45px;
+    }
+    .img-header{
+        max-width: 950px;
+        max-height: 850px;
+    }
+    .title{
+        font-size: 45px;
+    }
+    .img-main{
+        max-width: 750px;
+        max-height: 750px;
+    }
+    .contact{
+        font-size: 55px;
+    }
+    .mail{
+        font-size: 45px;
+    }
+    .inf{
+        font-size: 40px;
+    }
+    .right img{
+        max-width: 380px;
+        max-height: 380px;
+    }
+}
